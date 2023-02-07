@@ -2,9 +2,13 @@
 
 1) start the dotnet server
 
+`cd dotnet-web-app`
+
 `dotnet run`
 
 2) install node modules
+
+`cd frontend`
 
 `npm install`
 
