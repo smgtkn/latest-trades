@@ -15,3 +15,5 @@
 3) start react app
 
 `npm start`
+
+4)visit localhost:3000
