@@ -16,4 +16,4 @@
 
 `npm start`
 
-4)visit localhost:3000
+4) visit localhost:3000
